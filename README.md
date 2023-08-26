@@ -32,7 +32,7 @@ The primary objectives of this challenge include:
 ### Links
 
 - [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://starlightscript.github.io/Interactive-rating-component/)
 
 ## My Process
 
@@ -65,6 +65,6 @@ While completing this challenge was a significant step, I recognize that there's
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/StarlightScript)
+- Frontend Mentor - [@StarlightScript](https://www.frontendmentor.io/profile/StarlightScript)
 
 Feel free to reach out to me if you have any questions or feedback about this project! I'm open to suggestions and eager to continue refining my skills.
