@@ -31,7 +31,7 @@ The primary objectives of this challenge include:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-built-with-html-css-and-js-vMi8dyY5h8)
 - [Live Site URL](https://starlightscript.github.io/Interactive-rating-component/)
 
 ## My Process
